@@ -1,0 +1,166 @@
+@font.face{
+	src: url(font/FascinateInline-Regular);
+	font-family: 'Fascinate Inline', cursive;
+}
+
+.all
+	{
+		background-image: url("../img/background.jpeg");
+		background-size: 100%;
+		
+	}
+
+	.s1text
+	{
+		font-family: Fascinate Inline;
+		letter-spacing: 0.1em;
+		font-size: 32px;	
+		text-transform: uppercase;
+		color: 	#FFFFFF;
+		text-align: center;	
+		line-height: 2;	
+		padding:1px 1px 1px 1px;
+		
+		background-image: url("../img/companylogoBG.jpg");
+		width:500px;
+		margin: auto auto;
+		background-size: cover;		
+	}
+	
+#s2text
+	{
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:18px;
+		background-color: gray;
+		width:500px;
+		margin: auto auto;
+		text-transform: uppercase;
+		word-spacing: 2em;
+		padding:1px 1px 1px 1px;
+		
+	
+	}
+
+.s3text
+	{
+		
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:32px;
+		background-color: #00bfff;
+		width:500px;
+		margin: auto auto;
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:1;
+	}
+	
+.linebreak
+	{
+		margin-left : 100px;
+		margin-right: 100px;
+	}
+.marioimg
+	{
+		width:500px;
+		margin: auto auto;
+	}
+
+img.resize1
+	{
+		max-width:100%;
+		max-height:50%;
+	}
+	
+.s4text
+	{
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:32px;
+		background-color: #00bfff;
+		width:500px;
+		margin: auto auto;
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:1;
+	}
+.linebreak2
+	{
+		margin-left:150px;
+		margin-right: 150px;
+	}
+
+	
+img.resize2
+	{
+		max-width:100%;
+		max-height:25%;
+	}
+	
+.s5text
+	{
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:32px;
+		background-color: #00bfff;
+		width:500px;
+		margin: auto auto;
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:1;
+	}
+	
+.chessimg
+	{
+		width:500px;
+		margin:auto auto;
+		
+	}
+
+img.resize3
+	{
+		max-width:100%;
+		max-height:50%;
+	}
+	
+.s6text
+	{
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:32px;
+		background-color: #00bfff;
+		width:500px;
+		margin: auto auto;
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:1;
+	}
+	
+.psimg
+	{
+		width:500px;
+		margin: auto auto;
+		
+	}
+	
+img.resize4
+	{
+		max-width:100%;
+		max-height:50%;
+	}
+	
+	
+footer
+	{
+		background-color: #000000;
+		text-align:center;
+		color:#FFFFFF;
+	}
+	
+

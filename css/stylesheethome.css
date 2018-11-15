@@ -1,0 +1,319 @@
+@font.face{
+	src: url(font/FascinateInline-Regular);
+	font-family: 'Fascinate Inline', cursive;
+}
+
+#all
+	{
+		background-image: url("../img/background.jpeg");
+		background-size: 100%;
+	}
+
+	.s1text
+	{
+		font-family: Fascinate Inline;
+		letter-spacing: 0.1em;
+		font-size: 40px;	
+		text-transform: uppercase;
+		color: 	#FFFFFF;
+		text-align: center;	
+		line-height: 2;	
+		padding:1px 1px 1px 1px;
+		
+		background-image: url("../img/companylogoBG.jpg");
+		width:700px;
+		margin: auto auto;
+		background-size: cover;		
+	}
+a
+	{
+		color : #FFFFFF;
+		text-decoration:none;
+	}
+	
+a:hover
+	{
+		color: #2699FB
+	}
+	
+.s2text
+	{
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:24px;
+		background-color: #808080;
+		width:700px;
+		margin: auto auto;
+		text-transform: uppercase;
+		word-spacing: 2em;
+		padding:1px 1px 1px 1px;
+		
+	
+	}
+
+.s3text
+	{		
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:40px;
+		background-color: #2699FB;
+		width:700px;
+		margin: auto auto;
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:1;
+	}
+	
+.linebreak
+	{
+		margin-left : 150px;
+		margin-right: 150px;
+	}
+	
+.linebreak2
+	{
+		margin-left:250px;
+		margin-right: 250px;
+	}
+	
+.marioimg
+	{
+		width:700px;
+		margin: auto auto;
+		padding:1px 1px 1px 1px;
+
+	}
+	
+.mobileimg
+	{
+		width:700px;
+		margin: auto auto;
+		padding:1px 1px 1px 1px;
+		
+	}
+img.resize1
+	{
+		max-width:100%;
+		max-height:50%;
+	}
+	
+.s4text
+	{
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:40px;
+		background-color: #2699FB;
+		width:700px;
+		margin: auto auto;
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:1;
+	}
+
+
+	
+img.resize2
+	{
+		max-width:100%;
+		max-height:25%;
+	}
+	
+.s5text
+	{
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:40px;
+		background-color: #2699FB;
+		width:700px;
+		margin: auto auto;
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:1;
+	}
+	
+.chessimg
+	{
+		width:700px;
+		margin:auto auto;
+		
+	}
+
+img.resize3
+	{
+		max-width:100%;
+		max-height:50%;
+	}
+	
+.s6text
+	{
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:40px;
+		background-color: #2699FB;
+		width:700px;
+		margin: auto auto;
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:1;
+	}
+	
+.psimg
+	{
+		width:700px;
+		margin: auto auto;	
+	}
+	
+img.resize4
+	{
+		max-width:100%;
+		max-height:50%;
+	}
+
+.s7text
+	{
+		color:#FFFFFF;
+		text-align: center;
+		font-size:50px;
+		background-color: #2699FB;
+		width:700px;
+		margin: auto auto;
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:1;
+	}
+
+.maincontent
+	{
+		width:700px;
+		margin: auto auto;
+		background-color: #FFFFFF;
+	}
+	
+	
+.resizecubic
+	{
+		max-width:30%;	
+		padding: 5px 5px 5px 5px;
+	}
+
+.resizehouse
+	{
+		max-width: 33%;
+		padding: 5px 5px 5px 5px;
+	}
+
+.resizemario
+	{
+		max-width: 31%;
+		padding: 1px 5px 5px 5px;		
+	}
+	
+.moreinformation
+	{
+		font-size:24px;
+		padding:0 0 0 20px;		
+	}
+	
+.contactform
+	{
+		color:#000000;
+		text-align: left;
+		font-size:15px;
+		background-color: #FFFFFF;
+		width:700px;
+		margin: auto auto;		
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:1;
+	
+	}
+
+.contact
+	{	
+		line-height:1;
+		padding:5px 20px 5px 20px;
+		
+		
+	}
+	
+input{
+	width:100%;
+	border:none;
+}
+
+textarea
+	{
+		width:100%;
+		border:none;
+	}
+.submitbutton
+	{
+		background-color:#2699FB;
+		color:#FFFFFF;
+		font-size:20px;
+		margin-bottom:20px;
+		line-height:2;
+		text-align:center;	
+	}
+	
+select
+	{
+		float:right;
+		width:70%;
+	}	
+
+.s8text
+	{
+		font-family: Fascinate Inline;
+		color:#FFFFFF;
+		text-align: center;
+		font-size:40px;
+		background-color: #2699FB;
+		width:700px;
+		margin: auto auto;
+		text-transform: uppercase;
+		padding:1px 1px 1px 1px;
+		line-height:2;
+	}	
+
+.flexbox
+	{
+		width:700px;	
+		border: none;
+		
+	}	
+#s10text
+	{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+		margin:auto auto;
+		width: 700px;
+		background-color: white;
+	}
+	
+.productsimage
+	{
+		width: 200px;
+		height: 150px;
+		margin:auto auto;
+		padding: 3px;		
+	}
+	
+footer
+	{
+		background-color: #000000;
+		text-align:center;
+		color:#FFFFFF;
+		clear:both;
+		margin:auto auto;
+		width:700px;
+	}
+	
+
